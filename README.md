@@ -1,2 +1,2 @@
 # Basic-Responsive-Grid
-A basic, response, 12-grid display
+A basic, responsive, 12-grid display
