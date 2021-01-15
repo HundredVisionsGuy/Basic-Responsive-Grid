@@ -4,7 +4,7 @@
 body {
     background: #F9F4FB;
     color: #1F0E25;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', sans-serif;
 }
 
 .card {
@@ -14,7 +14,7 @@ body {
     align-items: center;
     background: #6B317F;
     font-size: 3rem;
-    color: #fff;
+    color: #F9F4FB;
     box-shadow: rgba(3, 8, 20, 0.1) 0px 0.15rem 0.5rem, rgba(2, 8, 20, 0.1) 0px 0.075rem 0.175rem;
     height: 100%;
     width: 100%;
